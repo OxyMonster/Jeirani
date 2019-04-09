@@ -1,0 +1,28 @@
+{
+  "name": "bpg-le-studio-02",
+  "description": "BPG LE Studio 02 Web-Font Package",
+  "version": "1.0.0",
+  "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "bpg-le-studio-02"],
+  "main": [
+    "css/bpg-le-studio-02.css"
+  ],
+  "homepage": "https://github.com/web-fonts/bpg-le-studio-02",
+  "authors": [
+    "Lado Lomidze <lado.lomidze@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/web-fonts/bpg-le-studio-02.git"
+  },
+  "license": ["MIT", "CC-BY-NC-ND-4.0"],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "*.md",
+    "font.json",
+    "package.json"
+  ]
+}
